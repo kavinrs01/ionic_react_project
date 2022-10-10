@@ -13,7 +13,7 @@ const Tab1: React.FC = () => {
       <IonContent fullscreen>
         <IonHeader collapse="condense">
           <IonToolbar>
-            <IonTitle className="title" size="large">Home</IonTitle>
+            <IonTitle className="title" size="large">Hindi theriyathu poda </IonTitle>
           </IonToolbar>
         </IonHeader>
         <ExploreContainer name="Tab 1 page" />
