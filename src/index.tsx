@@ -8,6 +8,7 @@ const container = document.getElementById('root');
 const root = createRoot(container!);
 root.render{
   <React.StrictMode>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro maxime dicta exercitationem, saepe consequatur expedita quidem nulla eaque facilis aspernatur! Illum sunt hic praesentium debitis ut minus iusto aperiam animi?</p>
     <App />
   </React.StrictMode>
 };
