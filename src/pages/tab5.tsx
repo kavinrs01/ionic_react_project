@@ -14,6 +14,7 @@ const Tab5: React.FC = () => {
         <IonHeader collapse="condense">
           <IonToolbar>
             <IonTitle size="large">Help</IonTitle>
+            <h2>this is sample text</h2>
           </IonToolbar>
         </IonHeader>
         <ExploreContainer name="Help page" />
