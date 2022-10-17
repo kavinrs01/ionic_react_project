@@ -15,6 +15,7 @@ const Tab5: React.FC = () => {
           <IonToolbar>
             <IonTitle size="large">Help</IonTitle>
             <h2>this is sample text</h2>
+            <img src="img_bird.jpg" style="width:100%;"></img>
           </IonToolbar>
         </IonHeader>
         <ExploreContainer name="Help page" />
