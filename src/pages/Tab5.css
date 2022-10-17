@@ -9,3 +9,7 @@
     color:rgb(153, 212, 24);
     font-weight: 20px;
 }
+
+a {
+    display: block;
+  }
