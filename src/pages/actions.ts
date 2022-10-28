@@ -18,4 +18,15 @@ export type AddNoteAction = {
     type: "UPDATE_NOTE",
     payload: note
   });
+
+  
+  export type UpdateContactAction = {
+    type: "UPDATE_CONTACT";
+    payload: string;
+  };
+  
+  export const updateContact = (note: string): UpdateNoteAction => ({
+    type: "UPDATE_CONTACT",
+    payload: note
+  });
   
