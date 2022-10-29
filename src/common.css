@@ -1,10 +1,14 @@
 label {
   display: inline-block;
   margin-bottom: 0.5rem;
+  padding: auto;
 }
 
 button {
-  border-radius: 0;
+  border-radius: 10px;
+  color: red;
+  background-color: yellow;
+  padding: 10px;
 }
 
 button:focus:not(:focus-visible) {
